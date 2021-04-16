@@ -1,1 +1,11 @@
-# PasswortGenerator
+# PythonTools
+
+Dieses Repository enthälte mehrere nützliche Skripts / "Tools"
+
+## Tools
+
+- PasswordGenerator
+
+## Lizenz
+
+Dieses Repository hat die [MIT Lizenz](https://github.com/Aquitano/PythonTools/blob/main/LICENSE "MIT Lizenz").
