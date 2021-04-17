@@ -4,7 +4,7 @@ Dieses Repository enthälte mehrere nützliche Skripts / "Tools"
 
 ## Tools
 
-- PasswordGenerator
+- PasswordGenerator - Generiert zufällige Passwörter beliebiger Länge mit der API von Random.org
 
 ## Lizenz
 
