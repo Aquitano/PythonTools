@@ -1,7 +1,7 @@
 import requests, string, random
 
 characters = [char for char in string.printable]
-remove = ['\n', '\r','\t','\x0b','\x0c',]
+remove = ['\n', '\r','\t','\x0b','\x0c']
 characters = [elem for elem in characters if elem not in remove]
 
 def checkquota():
