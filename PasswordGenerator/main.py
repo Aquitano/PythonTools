@@ -25,8 +25,16 @@ def generate_pwd(num):
     numbers = get_random_numbers(num)
     for number in numbers:
         pwd += characters[int(number)]
+    pwd.replace(" ", "")
     print(pwd)
 
 psw_length = input('Enter password length: ')
+
+while True:
+    if int(psw_length) < 8:
+        print('Password length is too short/weak. Please enter again!')
+        psw_length = input('Enter password length: ')
+    if int(psw_length) >= 8:
+        break
 
 generate_pwd(psw_length)
