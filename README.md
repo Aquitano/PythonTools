@@ -1,5 +1,7 @@
 # PythonTools
 
+https://forthebadge.com/images/badges/made-with-python.svg
+
 Dieses Repository enthälte mehrere nützliche Skripts / "Tools"
 
 ## Tools/Skripts
