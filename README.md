@@ -11,4 +11,4 @@ Dieses Repository enthälte mehrere nützliche Skripts / "Tools"
 
 ## Lizenz
 
-Dieses Repository hat die [MIT Lizenz](https://github.com/Aquitano/PythonTools/blob/main/LICENSE "MIT Lizenz").
+Dieses Repository hat die [GNU General Public License v3.0](https://github.com/Aquitano/PythonTools/blob/main/LICENSE).
